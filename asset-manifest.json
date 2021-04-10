@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.7ab30ff3.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.ea60ab42.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.ea60ab42.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.faee6877.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.faee6877.js.map",
+    "static/css/2.74c02967.chunk.css": "/reactlivewebsite/static/css/2.74c02967.chunk.css",
+    "static/js/2.88b540d8.chunk.js": "/reactlivewebsite/static/js/2.88b540d8.chunk.js",
+    "static/js/2.88b540d8.chunk.js.map": "/reactlivewebsite/static/js/2.88b540d8.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/reactlivewebsite/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.7ab30ff3.chunk.css.map": "/reactlivewebsite/static/css/main.7ab30ff3.chunk.css.map",
+    "static/js/2.88b540d8.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.88b540d8.chunk.js.LICENSE.txt",
+    "static/media/Android.fdc3473b.png": "/reactlivewebsite/static/media/Android.fdc3473b.png",
+    "static/media/app.ef7f1d25.png": "/reactlivewebsite/static/media/app.ef7f1d25.png",
+    "static/media/digital.ba77b11d.jpg": "/reactlivewebsite/static/media/digital.ba77b11d.jpg",
+    "static/media/girll.1ba6487a.svg": "/reactlivewebsite/static/media/girll.1ba6487a.svg",
+    "static/media/laptopgirll.853b872b.svg": "/reactlivewebsite/static/media/laptopgirll.853b872b.svg",
+    "static/media/marketing.5f6ebd99.jpg": "/reactlivewebsite/static/media/marketing.5f6ebd99.jpg",
+    "static/media/software.e2a63e82.png": "/reactlivewebsite/static/media/software.e2a63e82.png",
+    "static/media/web.c0c5b582.jpg": "/reactlivewebsite/static/media/web.c0c5b582.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faee6877.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.88b540d8.chunk.js",
+    "static/css/main.7ab30ff3.chunk.css",
+    "static/js/main.ea60ab42.chunk.js"
+  ]
+}
